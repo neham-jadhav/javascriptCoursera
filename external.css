@@ -1,0 +1,17 @@
+header li{
+    list-style: none;
+  }
+  a:link, a:visited{
+    background-color: lightblue;
+    text-decoration: none;
+    border: 1px solid blue;
+    color:black;
+    display: block;
+    width: 200px;
+    text-align:center;
+    margin-bottom: 1px;
+       }
+    a:hover, a:active{
+        background-color: purple;
+        color:aliceblue;
+    }
