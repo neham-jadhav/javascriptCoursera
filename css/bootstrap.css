@@ -1,0 +1,7 @@
+.row{
+   margin-bottom: 20px;
+}
+.row > div{
+    border: 5px solid rgb(133, 219, 219); 
+    background-color: violet; 
+}
